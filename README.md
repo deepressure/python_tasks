@@ -10,8 +10,11 @@ https://ru.coursera.org/specializations/programming-in-python
 http://java-course.ru/begin/data/
 
 https://pl.khanacademy.org/science/biology/chemistry--of-life
+
 https://pl.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/basic-probability
+
 https://pl.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing
+
 https://pl.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/opposite-of-a-number
 
 
