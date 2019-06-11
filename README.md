@@ -17,5 +17,5 @@ https://pl.khanacademy.org/math/statistics-probability/significance-tests-one-sa
 
 https://pl.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/opposite-of-a-number
 
-
+Если будете в Вене, обязательно заходите. У нас очень хороший кофе. Zollergasse 5, 1070
   
