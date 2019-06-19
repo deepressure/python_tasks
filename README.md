@@ -53,4 +53,5 @@ hellblade + A Plague Tale
 Call of Duty 4:Modern Warfare (2007)
 
 Skala - movie
+Покемон. Детектив Пикачу
 
