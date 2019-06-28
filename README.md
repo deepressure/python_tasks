@@ -2,6 +2,8 @@
 
 https://www.venusmed.at/en/ 
 
+http://www.seegrotte.at/en/oeffnungszeiten.html
+
 https://docs.google.com/document/d/1Nbty7Jq4DqCQMfoHXVS4HQRL7n35NRmSFLlG8KDW1tg/edit
 German Language Viewing Recommendations
 
