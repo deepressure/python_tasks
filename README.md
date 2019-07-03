@@ -1,6 +1,7 @@
 # Books + other links
 
 https://www.venusmed.at/en/ 
+https://www.oracletutorial.com/
 
 http://www.seegrotte.at/en/oeffnungszeiten.html
 
