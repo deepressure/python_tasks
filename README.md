@@ -4,6 +4,8 @@ https://www.venusmed.at/en/
 https://theculturetrip.com/europe/austria/articles/10-best-flea-markets-and-thrift-stores-in-vienna/
 https://www.oracletutorial.com/
 
+http://www.aerzteimzentrum.at/en/services/83-blood-test
+
 http://www.seegrotte.at/en/oeffnungszeiten.html
 
 Eisriesenwelt Werfen - ice caves near Salzburg
