@@ -2,32 +2,14 @@
 
 https://www.venusmed.at/en/ 
 https://theculturetrip.com/europe/austria/articles/10-best-flea-markets-and-thrift-stores-in-vienna/
-https://www.oracletutorial.com/
 
 http://www.seegrotte.at/en/oeffnungszeiten.html
 
 Eisriesenwelt Werfen - ice caves near Salzburg
 
-https://docs.google.com/document/d/1Nbty7Jq4DqCQMfoHXVS4HQRL7n35NRmSFLlG8KDW1tg/edit
-German Language Viewing Recommendations
-
 https://library.d3.ru/100-knig-khkh-veka-po-versii-le-monde-1225561/?sorting=rating 100 books
-
-https://ru.coursera.org/specializations/programming-in-python
-
-http://java-course.ru/begin/data/
-
-https://pl.khanacademy.org/science/biology/chemistry--of-life
-
-https://pl.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/basic-probability
-
-https://pl.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing
-
-https://pl.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/opposite-of-a-number
-
-Если будете в Вене, обязательно заходите. У нас очень хороший кофе. Zollergasse 5, 1070
   
-eda - Шёнбруннский штрудель, гермкнёдль
+eda - гермкнёдль
 
 атмосфера венских кофеен прекрасна Sperl, Cafe Central, Prückel... 
 
@@ -36,8 +18,6 @@ eda - Шёнбруннский штрудель, гермкнёдль
 Schabanack! Все хойригеры в Kellergasse, где Бизамберг! Emerich - кухня отличная!
 
 Если вам до 26 лет, за 20 евро можно купить Vorteilscard Jugend и получить скидку 50 процентов на все поезда по Австрии. 
-
-Qando рулит, если по Вене. Там и real-time статус есть. 
 
 SportsDirect магазины - особенно за обувью аутлетной 
 вид из Софитель, еда там так себе была, но вид безумно красивый
@@ -53,10 +33,22 @@ https://lokaltipp.at/
 
 Если хочется найти, чем заняться в пятницу вечером, помогут goodnight.at и falter.at :) мероприятия и концерты :) 
 
-hellblade + A Plague Tale
-Call of Duty 4:Modern Warfare (2007)
-
-Skala - movie
-Покемон. Детектив Пикачу
-
 Pathologisch-anatomische Sammlung im Narrenturm des NHM Wien
+
+learning:
+https://www.oracletutorial.com/
+
+https://docs.google.com/document/d/1Nbty7Jq4DqCQMfoHXVS4HQRL7n35NRmSFLlG8KDW1tg/edit
+German Language Viewing Recommendations
+
+https://ru.coursera.org/specializations/programming-in-python
+
+http://java-course.ru/begin/data/
+
+https://pl.khanacademy.org/science/biology/chemistry--of-life
+
+https://pl.khanacademy.org/math/ap-statistics/probability-ap/randomness-probability-simulation/v/basic-probability
+
+https://pl.khanacademy.org/math/statistics-probability/significance-tests-one-sample/idea-of-significance-tests/v/simple-hypothesis-testing
+
+https://pl.khanacademy.org/math/algebra-basics/basic-alg-foundations/alg-basics-negative-numbers/v/opposite-of-a-number
