@@ -8,3 +8,23 @@ for number in numbers:
   if number % 2 == 1:
     continue
   print(number)
+
+#Create a list from user input == list comprehension
+
+a = [int(i) for i in input().split()]
+
+
+#sum of all elements: 
+a = [int(i) for i in input().split()]
+print(sum(a))
+
+#!!!unpack list element == print(*results)
+#http://pythontutor.ru/lessons/for_loop/
+
+"""
+Можно сделать быстрее, сразу на ум приходит пройтись 
+по матрице, найти мины (клетки с -1, кстати можно и 
+сразу * заменить), и прибавить к значениям во всех 
+соседних клетках единицу (не забыть учесть, что 2 мины 
+могут быть в соседних клетках). На мой вкус это нагляднее.
+"""
