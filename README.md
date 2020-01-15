@@ -31,7 +31,5 @@ https://lokaltipp.at/
 
 Pathologisch-anatomische Sammlung im Narrenturm des NHM Wien
 
-https://docs.google.com/document/d/1Nbty7Jq4DqCQMfoHXVS4HQRL7n35NRmSFLlG8KDW1tg/edit
-German Language Viewing Recommendations
 
-https://ru.coursera.org/specializations/programming-in-python
+
