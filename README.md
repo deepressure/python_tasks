@@ -31,5 +31,10 @@ https://lokaltipp.at/
 
 Pathologisch-anatomische Sammlung im Narrenturm des NHM Wien
 
+Пенанг — остров в Малайзии, где безумно ласковый океан и невероятно аутентичные районы трех культур: малайской, индийской и китайской. 
+
+https://image-engine.com/ 
+https://o94.at/sites/default/files/2018-08/NLiV_German_courses_in_Vienna.pdf 
+
 
 
