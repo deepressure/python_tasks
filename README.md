@@ -1,7 +1,6 @@
-# Books + other links
+
 
 https://www.venusmed.at/en/ 
-https://theculturetrip.com/europe/austria/articles/10-best-flea-markets-and-thrift-stores-in-vienna/
 
 http://www.seegrotte.at/en/oeffnungszeiten.html
 
