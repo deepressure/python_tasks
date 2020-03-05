@@ -6,7 +6,8 @@ def update_dictionary(d, key, value):
         d[2 * key].append(value)
     else:
         d[2 * key] = [value]
-     
+        
+#second option    
 def update_dictionary(d, key, value):
     if key in d:
         d[key] += [value]
